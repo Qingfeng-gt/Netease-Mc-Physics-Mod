@@ -47,7 +47,8 @@
     },
     "UI": {
         "customPrefabGroupExpand": [
-            "phys_state_change_hud"
+            "phys_state_change_hud",
+            "state_set_hud"
         ],
         "expandData": {
             "prefab": {
@@ -56,10 +57,19 @@
                     "/netease_prefab_screen/main_panel",
                     "/netease_prefab_screen/main_panel/panel",
                     "/netease_prefab_screen/main_panel/panel/image"
+                ],
+                "state_set_hud.main_panel": [
+                    "/netease_prefab_screen"
                 ]
             },
             "screen": {
                 "D:\\MCStudioDownload\\work\\m15185697314@163.com\\Cpp\\AddOn\\e24907ade4034cada71596d6e90131d4\\resource_pack_HgZPsDng\\ui\\phys_state_change_hud.json": [
+                    "/main"
+                ],
+                "D:\\MCStudioDownload\\work\\m15185697314@163.com\\Cpp\\AddOn\\e24907ade4034cada71596d6e90131d4\\resource_pack_physics\\ui\\phys_state_change_hud.json": [
+
+                ],
+                "D:\\MCStudioDownload\\work\\m15185697314@163.com\\Cpp\\AddOn\\e24907ade4034cada71596d6e90131d4\\resource_pack_physics\\ui\\state_set_hud.json": [
                     "/main"
                 ]
             }

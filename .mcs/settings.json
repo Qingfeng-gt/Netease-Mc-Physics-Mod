@@ -2,10 +2,10 @@
     "Arena.Component.Namespace": "cfmay",
     "FirstTabSetting": 0,
     "ShortItemSettings": [
-        "resource_pack_HgZPsDng\\ui",
-        "resource_pack_HgZPsDng\\effects",
-        "resource_pack_HgZPsDng\\models",
-        "resource_pack_HgZPsDng\\textures"
+        "resource_pack_physics\\ui",
+        "resource_pack_physics\\effects",
+        "resource_pack_physics\\models",
+        "resource_pack_physics\\textures"
     ],
     "Uluru.autoLayerDict": {
 

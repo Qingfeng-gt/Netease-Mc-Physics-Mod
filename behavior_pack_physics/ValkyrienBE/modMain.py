@@ -15,7 +15,7 @@ class ValkyrienBE(object):
     @Mod.InitServer()
     def ValkyrienBEServerInit(self):
         from ValkyrienBE.ValkyrienBEServerSystem import ValkyrienBEServerSystem
-        register_server(ValkyrienBEServerSystem)
+        # register_server(ValkyrienBEServerSystem)
         return
 
     @Mod.DestroyServer()
@@ -25,7 +25,7 @@ class ValkyrienBE(object):
     @Mod.InitClient()
     def ValkyrienBEClientInit(self):
         from ValkyrienBE.ValkyrienBEClientSystem import ValkyrienBEClientSystem
-        register_client(ValkyrienBEClientSystem)
+        # register_client(ValkyrienBEClientSystem)
         return
 
     @Mod.DestroyClient()
