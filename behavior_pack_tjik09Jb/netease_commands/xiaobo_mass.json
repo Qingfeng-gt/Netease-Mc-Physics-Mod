@@ -1,0 +1,20 @@
+{
+	"format_version": "0.0.1",
+	"name": "mass",
+	"description": "方块质量查询与设置",
+	"permission_level": "game_directors",
+	"requires_cheats": false,
+	"args": [
+        {"name":"查询", "type":"enum", "options": ["query"]},
+        {"name":"方块", "type":"block"}
+    ],
+	"args1": [
+        {"name":"设置", "type":"enum", "options": ["set"]},
+        {"name": "方块", "type": "block"},
+        {"name": "质量", "type": "int"}
+    ],
+	"args2": [
+        {"name":"重置", "type":"enum", "options": ["reset"]},
+        {"name":"方块", "type":"block"}
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Arena.Component.Namespace": "cfmay",
+    "FirstTabSetting": 0,
+    "ShortItemSettings": [
+        "resource_pack_HgZPsDng\\ui",
+        "resource_pack_HgZPsDng\\effects",
+        "resource_pack_HgZPsDng\\models",
+        "resource_pack_HgZPsDng\\textures"
+    ],
+    "Uluru.autoLayerDict": {
+
+    },
+    "Uluru.checkSuspectOldUI": true
+}

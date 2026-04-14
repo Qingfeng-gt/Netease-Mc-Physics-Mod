@@ -1,0 +1,24 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "physstimu:xiaobo_phys_tick",
+      "is_summonable": false,
+      "is_spawnable": false,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:persistent": {},
+      "minecraft:tick_world": {
+        "never_despawn": true,
+        "radius": 6
+      },
+      "minecraft:damage_sensor": {
+        "triggers": {
+          "cause": "all",
+          "deals_damage": false
+        }
+      }
+    }
+  }
+}

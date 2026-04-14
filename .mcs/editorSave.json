@@ -1,0 +1,68 @@
+{
+    "Addon": {
+        "EnchantSetting": {
+            "amplifier": 1
+        },
+        "PackResourceSortData": {
+            "1_physstimu:xiaobo_block_phys": {
+                "createTime": 1775740767.2293634,
+                "modifyTime": 1775740767.2293634
+            },
+            "1_physstimu:xiaobo_phys_tick": {
+                "createTime": 1775740767.2293634,
+                "modifyTime": 1775740767.2293634
+            },
+            "2_phy_stimulate:stick": {
+                "createTime": 1775740767.2293634,
+                "modifyTime": 1775740767.2293634
+            },
+            "32768_sound_definitions": {
+                "createTime": 1775740767.2293634,
+                "modifyTime": 1775740767.2293634
+            },
+            "4194304_xiaobo_blockpush": {
+                "createTime": 1775740767.2298877,
+                "modifyTime": 1775740767.2298877
+            },
+            "4194304_xiaobo_mass": {
+                "createTime": 1775740767.2299428,
+                "modifyTime": 1775740767.2299428
+            },
+            "4_valkyrien_be:valkyrien_be_balloon": {
+                "createTime": 1775740767.2293634,
+                "modifyTime": 1775740767.2293634
+            },
+            "8_phy_stimulate:xiaobo_phys_stick_recipe": {
+                "createTime": 1775740767.2293634,
+                "modifyTime": 1775740767.2293634
+            }
+        },
+        "PlayerEffectSetting": {
+            "amplifier": 1,
+            "duration": 10
+        },
+        "PresetInstanceTreeData": [
+
+        ]
+    },
+    "UI": {
+        "customPrefabGroupExpand": [
+            "phys_state_change_hud"
+        ],
+        "expandData": {
+            "prefab": {
+                "phys_state_change_hud.main_panel": [
+                    "/netease_prefab_screen",
+                    "/netease_prefab_screen/main_panel",
+                    "/netease_prefab_screen/main_panel/panel",
+                    "/netease_prefab_screen/main_panel/panel/image"
+                ]
+            },
+            "screen": {
+                "D:\\MCStudioDownload\\work\\m15185697314@163.com\\Cpp\\AddOn\\e24907ade4034cada71596d6e90131d4\\resource_pack_HgZPsDng\\ui\\phys_state_change_hud.json": [
+                    "/main"
+                ]
+            }
+        }
+    }
+}

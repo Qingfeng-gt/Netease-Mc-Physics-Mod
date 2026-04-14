@@ -1,0 +1,7 @@
+{
+	"format_version": [1, 1, 0],
+	"valkyrien_be:valkyrien_be_balloon": {
+		"textures": "valkyrien_be_balloon",
+		"sound": "cloth"
+	}
+}
