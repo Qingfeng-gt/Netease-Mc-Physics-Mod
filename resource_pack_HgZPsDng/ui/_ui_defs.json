@@ -1,6 +1,0 @@
-{
-    "ui_defs": [
-        "ui/phys_state_change_hud.json",
-        "ui/state_set_hud.json"
-    ]
-}
